@@ -1,0 +1,5 @@
+1. Xbee: receive 0x7E byte -> DONE
+2. CommandInterpreter: deal with malformed commands -> DONE
+3. DataReporter: JSON escape characters -> DONE
+
+4. Implement watchdog timer
